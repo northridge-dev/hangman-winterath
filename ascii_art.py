@@ -68,11 +68,13 @@ game_over = """
     ====="""
 
 HANGMAN_PICS = [
-    zero_misses,
-    one_misses,
-    two_misses,
-    three_misses,
-    four_misses,
-    five_misses,
     game_over,
+    five_misses,
+    four_misses,
+    three_misses,
+    two_misses,
+    one_misses,
+    zero_misses
+
+
 ]
